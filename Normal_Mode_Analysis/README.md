@@ -4,7 +4,7 @@ NormalModeAnalysis.ipynb
 ## 1. Reorganization Energies:
  
 input files:
-`fff`
+`Gaussian_Freq.log`, `Gaussian_state1_OptGeom.xyz`, `Gaussian_state2_OptGeom.xyz`
 ```
 xxx
 ```
