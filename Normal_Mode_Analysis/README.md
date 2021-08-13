@@ -3,8 +3,8 @@ NormalModeAnalysis.ipynb
 
 1. Reorganization Energies:
  
-input files: 
-<br>
+input files: <br>
+
 
 2.  Energy Redistribution Analysis:
 
